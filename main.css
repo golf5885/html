@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(247, 241, 229);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow';
+    max-width: 1020px;
+    margin: auto;
+    box-sizing: border-box;}
+  
+  
+h1{
+    color:rgb(76, 75, 22);
+    font-family: 'Delicious Handrawn', cursive;
+    text-align: center;
+    font-size: 25pt;}
+a{
+    color:black;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 11pt;
+    margin-bottom: 0.5em;
+    padding: .5em;
+    text-decoration: none;
+    line-height: normal;}
